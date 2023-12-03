@@ -1,7 +1,7 @@
-CREATE TABLE [dbo].[tblStatus] (
+CREATE TABLE [dbo].[TBL_Status] (
     [StID]   TINYINT      NOT NULL,
     [StText] VARCHAR (20) NOT NULL,
-    CONSTRAINT [PK_tblStati] PRIMARY KEY NONCLUSTERED ([StID] ASC)
+    CONSTRAINT [PK_Stati] PRIMARY KEY NONCLUSTERED ([StID] ASC)
 );
 
 

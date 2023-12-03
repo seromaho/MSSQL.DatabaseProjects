@@ -1,7 +1,7 @@
-CREATE TABLE [dbo].[tblLager] (
+CREATE TABLE [dbo].[TBL_Lager] (
     [LagNr]   TINYINT      NOT NULL,
     [LagName] VARCHAR (50) NOT NULL,
-    CONSTRAINT [PK_tblLager] PRIMARY KEY NONCLUSTERED ([LagNr] ASC)
+    CONSTRAINT [PK_Lager] PRIMARY KEY NONCLUSTERED ([LagNr] ASC)
 );
 
 

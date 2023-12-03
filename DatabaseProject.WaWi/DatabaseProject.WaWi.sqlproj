@@ -62,7 +62,7 @@
     <Folder Include="Data" />
     <Folder Include="Properties" />
     <Folder Include="Scripts" />
-    <Folder Include="Tables\" />
+    <Folder Include="Tables" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\tblAbteilungen.sql" />

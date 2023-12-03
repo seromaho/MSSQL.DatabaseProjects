@@ -1,4 +1,4 @@
-CREATE TABLE [dbo].[tblPLZGebiete] (
+CREATE TABLE [dbo].[TBL_PLZGebiete] (
     [PgID]     INT              NOT NULL,
     [PgPLZ]    CHAR (5)         NOT NULL,
     [PgPLZint] INT              NOT NULL,

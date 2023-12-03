@@ -1,13 +1,13 @@
-CREATE TABLE [dbo].[tblAuftrag] (
+CREATE TABLE [dbo].[TBL_Auftrag] (
     [AufNr]         INT           IDENTITY (100001, 1) NOT NULL,
-    [AufDatum]      SMALLDATETIME CONSTRAINT [DF_tblAuftrag_AufDatum] DEFAULT (getdate()) NOT NULL,
+    [AufDatum]      SMALLDATETIME CONSTRAINT [DF_Auftrag_AufDatum] DEFAULT (getdate()) NOT NULL,
     [AufKunde]      INT           NOT NULL,
     [AufBearbeiter] INT           NOT NULL,
-    [AufStatus]     TINYINT       CONSTRAINT [DF_tblAuftrag_AufStatus] DEFAULT (1) NOT NULL,
-    CONSTRAINT [PK_tblAuftrag] PRIMARY KEY NONCLUSTERED ([AufNr] ASC),
-    CONSTRAINT [FK_tblAuftrag_tblKunden] FOREIGN KEY ([AufKunde]) REFERENCES [dbo].[tblKunden] ([KdNr]),
-    CONSTRAINT [FK_tblAuftrag_tblPersonal] FOREIGN KEY ([AufBearbeiter]) REFERENCES [dbo].[tblPersonal] ([PersNr]),
-    CONSTRAINT [FK_tblAuftrag_tblStatus] FOREIGN KEY ([AufStatus]) REFERENCES [dbo].[tblStatus] ([StID])
+    [AufStatus]     TINYINT       CONSTRAINT [DF_Auftrag_AufStatus] DEFAULT (1) NOT NULL,
+    CONSTRAINT [PK_Auftrag] PRIMARY KEY NONCLUSTERED ([AufNr] ASC),
+    CONSTRAINT [FK_Auftrag_Kunden] FOREIGN KEY ([AufKunde]) REFERENCES [dbo].[TBL_Kunden] ([KdNr]),
+    CONSTRAINT [FK_Auftrag_Personal] FOREIGN KEY ([AufBearbeiter]) REFERENCES [dbo].[TBL_Personal] ([PersNr]),
+    CONSTRAINT [FK_Auftrag_Status] FOREIGN KEY ([AufStatus]) REFERENCES [dbo].[TBL_Status] ([StID])
 );
 
 

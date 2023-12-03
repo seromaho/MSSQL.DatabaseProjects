@@ -1,7 +1,7 @@
-CREATE TABLE [dbo].[tblInteressen] (
+CREATE TABLE [dbo].[TBL_Interessen] (
     [IntCode] CHAR (3)     NOT NULL,
     [IntText] VARCHAR (50) NOT NULL,
-    CONSTRAINT [PK_tblInteressen] PRIMARY KEY NONCLUSTERED ([IntCode] ASC)
+    CONSTRAINT [PK_Interessen] PRIMARY KEY NONCLUSTERED ([IntCode] ASC)
 );
 
 
