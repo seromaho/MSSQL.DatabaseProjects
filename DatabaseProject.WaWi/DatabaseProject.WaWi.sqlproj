@@ -62,19 +62,6 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Security\alina.sql" />
-    <Build Include="Security\db_datareader for alina.sql" />
-    <Build Include="Security\db_datareader for heimo.sql" />
-    <Build Include="Security\db_datareader for lea.sql" />
-    <Build Include="Security\db_datareader for petra.sql" />
-    <Build Include="Security\db_datawriter for alina.sql" />
-    <Build Include="Security\db_datawriter for heimo.sql" />
-    <Build Include="Security\db_datawriter for lea.sql" />
-    <Build Include="Security\db_datawriter for petra.sql" />
-    <Build Include="Security\db_ddladmin for petra.sql" />
-    <Build Include="Security\heimo.sql" />
-    <Build Include="Security\lea.sql" />
-    <Build Include="Security\petra.sql" />
     <Build Include="Tables\tblAbteilungen.sql" />
     <Build Include="Tables\tblAktionskunden.sql" />
     <Build Include="Tables\tblAnreden.sql" />

@@ -1,5 +1,0 @@
-CREATE USER [heimo];
-
-
-GO
-
