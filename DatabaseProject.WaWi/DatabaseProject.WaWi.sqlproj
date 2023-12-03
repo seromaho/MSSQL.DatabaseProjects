@@ -98,7 +98,7 @@
     <Build Include="Tables\xGruppenMerge2.sql" />
   </ItemGroup>
   <ItemGroup>
-    <PostDeploy Include="Scripts\Script.Data.sql" />
+    <PostDeploy Include="Scripts\Script.Data.Local.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Data\Data.Abteilungen.csv" />

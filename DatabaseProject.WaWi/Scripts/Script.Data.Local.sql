@@ -1,5 +1,8 @@
 -- This file contains SQL statements that will be executed after the build script.
 
+-- The BULK INSERT statement only works if the MSSQL Server instance can access
+-- the path specified in the statement's FROM clause. That means that this script
+-- only works with a local instance of MSSQL Server.
 
 -- Connect to the 'DB_WaWi' database to run this snippet
 USE [DB_WaWi]
