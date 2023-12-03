@@ -6,7 +6,7 @@
     <Name>DatabaseProject.WaWi</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{293A376D-284B-4F35-8549-59CD585699DA}</ProjectGuid>
+    <ProjectGuid>{293a376d-284b-4f35-8549-59cd585699da}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
@@ -62,6 +62,7 @@
     <Folder Include="Data" />
     <Folder Include="Properties" />
     <Folder Include="Scripts" />
+    <Folder Include="Tables\" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\tblAbteilungen.sql" />
