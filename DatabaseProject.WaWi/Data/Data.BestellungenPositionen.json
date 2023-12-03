@@ -1,0 +1,218 @@
+[
+  {
+    "BestNr": 1000,
+    "BestPos": 1,
+    "BestPArtikel": 1043,
+    "BestPText": "Adlus Laubbesen",
+    "BestPMenge": 20,
+    "BestPPreis": 3.44,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1000,
+    "BestPos": 2,
+    "BestPArtikel": 1031,
+    "BestPText": "Adlus Stiel 150 cm",
+    "BestPMenge": 35,
+    "BestPPreis": 3.01,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1000,
+    "BestPos": 3,
+    "BestPArtikel": 1028,
+    "BestPText": "Adlus Gartenrechen 14 Zinken",
+    "BestPMenge": 40,
+    "BestPPreis": 2.57,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1001,
+    "BestPos": 1,
+    "BestPArtikel": 1201,
+    "BestPText": "Eierbecher Barkerole",
+    "BestPMenge": 360,
+    "BestPPreis": 1.26,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1001,
+    "BestPos": 2,
+    "BestPArtikel": 1192,
+    "BestPText": "Eierpfanne 18 cm",
+    "BestPMenge": 42,
+    "BestPPreis": 4.27,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1001,
+    "BestPos": 3,
+    "BestPArtikel": 1178,
+    "BestPText": "Essgabel 6 Stk. Packung",
+    "BestPMenge": 120,
+    "BestPPreis": 3.88,
+    "BestPRabatt": 200.0
+  },
+  {
+    "BestNr": 1001,
+    "BestPos": 4,
+    "BestPArtikel": 1179,
+    "BestPText": "Esslöffel 6 Stk. Packung",
+    "BestPMenge": 120,
+    "BestPPreis": 3.88,
+    "BestPRabatt": 200.0
+  },
+  {
+    "BestNr": 1001,
+    "BestPos": 5,
+    "BestPArtikel": 1177,
+    "BestPText": "Essmesser 6 Stk. Packung",
+    "BestPMenge": 120,
+    "BestPPreis": 7.37,
+    "BestPRabatt": 200.0
+  },
+  {
+    "BestNr": 1002,
+    "BestPos": 1,
+    "BestPArtikel": 1216,
+    "BestPText": "Fissler Edelstahlpflege 2 Stk. Packung",
+    "BestPMenge": 1000,
+    "BestPPreis": 5.62,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1003,
+    "BestPos": 1,
+    "BestPArtikel": 1157,
+    "BestPText": "Camping-Klappsessel Unica Tnt",
+    "BestPMenge": 260,
+    "BestPPreis": 6.06,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1003,
+    "BestPos": 2,
+    "BestPArtikel": 1049,
+    "BestPText": "Arbeitsmantel Blau 46",
+    "BestPMenge": 100,
+    "BestPPreis": 10.86,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1004,
+    "BestPos": 1,
+    "BestPArtikel": 1300,
+    "BestPText": "Gardena 2-Wege-Verteiler",
+    "BestPMenge": 50,
+    "BestPPreis": 8.24,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1004,
+    "BestPos": 2,
+    "BestPArtikel": 1307,
+    "BestPText": "Gardena Drucksprüher 867 3 lt",
+    "BestPMenge": 40,
+    "BestPPreis": 21.58,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1004,
+    "BestPos": 3,
+    "BestPArtikel": 1276,
+    "BestPText": "Gardena Gartendusche 956",
+    "BestPMenge": 12,
+    "BestPPreis": 21.32,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1004,
+    "BestPos": 4,
+    "BestPArtikel": 1317,
+    "BestPText": "Gardena Schrubber 3640",
+    "BestPMenge": 80,
+    "BestPPreis": 4.32,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1004,
+    "BestPos": 5,
+    "BestPArtikel": 1342,
+    "BestPText": "Gardena Dachrinnen- Reiniger 3650",
+    "BestPMenge": 10,
+    "BestPPreis": 8.24,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1004,
+    "BestPos": 6,
+    "BestPArtikel": 1296,
+    "BestPText": "Gardena Baumschere 302",
+    "BestPMenge": 600,
+    "BestPPreis": 19.58,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1004,
+    "BestPos": 7,
+    "BestPArtikel": 1339,
+    "BestPText": "Gardena Obstpflücker 3110",
+    "BestPMenge": 450,
+    "BestPPreis": 6.76,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1004,
+    "BestPos": 8,
+    "BestPArtikel": 1299,
+    "BestPText": "Gardena Wandschlauch- Träger 2650",
+    "BestPMenge": 200,
+    "BestPPreis": 25.68,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1005,
+    "BestPos": 1,
+    "BestPArtikel": 1138,
+    "BestPText": "Bay Kresse Igel",
+    "BestPMenge": 180,
+    "BestPPreis": 4.27,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1005,
+    "BestPos": 2,
+    "BestPArtikel": 1129,
+    "BestPText": "Bay Römertopf",
+    "BestPMenge": 30,
+    "BestPPreis": 10.86,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1005,
+    "BestPos": 3,
+    "BestPArtikel": 1077,
+    "BestPText": "Bay Römertopf Kochbuch",
+    "BestPMenge": 60,
+    "BestPPreis": 3.01,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1005,
+    "BestPos": 4,
+    "BestPArtikel": 1101,
+    "BestPText": "Bay Kartoffelröster",
+    "BestPMenge": 250,
+    "BestPPreis": 10.86,
+    "BestPRabatt": 0.0
+  },
+  {
+    "BestNr": 1007,
+    "BestPos": 1,
+    "BestPArtikel": 1054,
+    "BestPText": "Arbeitsmantel Blau 56",
+    "BestPMenge": 100,
+    "BestPPreis": 10.86,
+    "BestPRabatt": 50.0
+  }
+]

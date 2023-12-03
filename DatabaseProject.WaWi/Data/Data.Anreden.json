@@ -1,0 +1,32 @@
+[
+  {
+    "AnrNr": 1,
+    "AnrText": "Frau",
+    "AnrBriefkopf": "Frau",
+    "AnrBriefanrede": "Sehr geehrte Frau"
+  },
+  {
+    "AnrNr": 2,
+    "AnrText": "Herr",
+    "AnrBriefkopf": "Herrn",
+    "AnrBriefanrede": "Sehr geehrter Herr"
+  },
+  {
+    "AnrNr": 3,
+    "AnrText": "Familie",
+    "AnrBriefkopf": "Familie",
+    "AnrBriefanrede": "Sehr geehrte Familie"
+  },
+  {
+    "AnrNr": 4,
+    "AnrText": "Firma",
+    "AnrBriefkopf": "Firma",
+    "AnrBriefanrede": "Sehr geehrte Damen und Herren"
+  },
+  {
+    "AnrNr": 5,
+    "AnrText": "Institution",
+    "AnrBriefkopf": "An",
+    "AnrBriefanrede": "Sehr geehrte Damen und Herren"
+  }
+]

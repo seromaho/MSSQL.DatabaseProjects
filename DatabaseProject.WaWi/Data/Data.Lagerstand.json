@@ -1,0 +1,230 @@
+[
+  {
+    "ArtNr": 1005,
+    "LagNr": 2,
+    "LagMenge": 20,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1038,
+    "LagNr": 2,
+    "LagMenge": 25,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1005,
+    "LagNr": 3,
+    "LagMenge": 10,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1009,
+    "LagNr": 3,
+    "LagMenge": 25,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1008,
+    "LagNr": 4,
+    "LagMenge": 1,
+    "LagReserviert": 1
+  },
+  {
+    "ArtNr": 1080,
+    "LagNr": 1,
+    "LagMenge": 20,
+    "LagReserviert": 10
+  },
+  {
+    "ArtNr": 1647,
+    "LagNr": 1,
+    "LagMenge": 3,
+    "LagReserviert": 2
+  },
+  {
+    "ArtNr": 1008,
+    "LagNr": 3,
+    "LagMenge": 5,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1005,
+    "LagNr": 4,
+    "LagMenge": 2,
+    "LagReserviert": 2
+  },
+  {
+    "ArtNr": 1009,
+    "LagNr": 4,
+    "LagMenge": 5,
+    "LagReserviert": 5
+  },
+  {
+    "ArtNr": 1820,
+    "LagNr": 1,
+    "LagMenge": 40,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1005,
+    "LagNr": 5,
+    "LagMenge": 102,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1488,
+    "LagNr": 2,
+    "LagMenge": 50,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1568,
+    "LagNr": 1,
+    "LagMenge": 1996,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1596,
+    "LagNr": 1,
+    "LagMenge": 998,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1875,
+    "LagNr": 1,
+    "LagMenge": 998,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1234,
+    "LagNr": 1,
+    "LagMenge": 51,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1234,
+    "LagNr": 4,
+    "LagMenge": 500,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1568,
+    "LagNr": 3,
+    "LagMenge": 1554,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1596,
+    "LagNr": 3,
+    "LagMenge": 777,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1875,
+    "LagNr": 3,
+    "LagMenge": 777,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1777,
+    "LagNr": 2,
+    "LagMenge": 350,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1777,
+    "LagNr": 3,
+    "LagMenge": 400,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 2003,
+    "LagNr": 2,
+    "LagMenge": 400,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 2004,
+    "LagNr": 2,
+    "LagMenge": 400,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 2004,
+    "LagNr": 3,
+    "LagMenge": 400,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1111,
+    "LagNr": 1,
+    "LagMenge": 600,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1234,
+    "LagNr": 2,
+    "LagMenge": 280,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1234,
+    "LagNr": 3,
+    "LagMenge": -15,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1333,
+    "LagNr": 3,
+    "LagMenge": 333,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1444,
+    "LagNr": 4,
+    "LagMenge": 444,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 2010,
+    "LagNr": 2,
+    "LagMenge": 750,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1788,
+    "LagNr": 2,
+    "LagMenge": 50,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1888,
+    "LagNr": 2,
+    "LagMenge": 200,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1666,
+    "LagNr": 1,
+    "LagMenge": 300,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 2005,
+    "LagNr": 5,
+    "LagMenge": 6015,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 2002,
+    "LagNr": 2,
+    "LagMenge": 800,
+    "LagReserviert": 0
+  },
+  {
+    "ArtNr": 1333,
+    "LagNr": 1,
+    "LagMenge": 33,
+    "LagReserviert": 2
+  }
+]

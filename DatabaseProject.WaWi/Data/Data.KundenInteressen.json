@@ -1,0 +1,102 @@
+[
+  {
+    "KdNr": 121,
+    "IntCode": "BAU"
+  },
+  {
+    "KdNr": 121,
+    "IntCode": "HWE"
+  },
+  {
+    "KdNr": 122,
+    "IntCode": "KUE"
+  },
+  {
+    "KdNr": 123,
+    "IntCode": "HWE"
+  },
+  {
+    "KdNr": 123,
+    "IntCode": "KUE"
+  },
+  {
+    "KdNr": 124,
+    "IntCode": "HUG"
+  },
+  {
+    "KdNr": 125,
+    "IntCode": "HUG"
+  },
+  {
+    "KdNr": 125,
+    "IntCode": "KUE"
+  },
+  {
+    "KdNr": 125,
+    "IntCode": "SPO"
+  },
+  {
+    "KdNr": 126,
+    "IntCode": "HUG"
+  },
+  {
+    "KdNr": 126,
+    "IntCode": "KUE"
+  },
+  {
+    "KdNr": 127,
+    "IntCode": "BAU"
+  },
+  {
+    "KdNr": 128,
+    "IntCode": "BAU"
+  },
+  {
+    "KdNr": 129,
+    "IntCode": "HUG"
+  },
+  {
+    "KdNr": 130,
+    "IntCode": "KUE"
+  },
+  {
+    "KdNr": 131,
+    "IntCode": "KUE"
+  },
+  {
+    "KdNr": 132,
+    "IntCode": "KUE"
+  },
+  {
+    "KdNr": 133,
+    "IntCode": "HUG"
+  },
+  {
+    "KdNr": 134,
+    "IntCode": "KUE"
+  },
+  {
+    "KdNr": 135,
+    "IntCode": "BAU"
+  },
+  {
+    "KdNr": 137,
+    "IntCode": "HUG"
+  },
+  {
+    "KdNr": 138,
+    "IntCode": "KUE"
+  },
+  {
+    "KdNr": 139,
+    "IntCode": "HWE"
+  },
+  {
+    "KdNr": 139,
+    "IntCode": "KUE"
+  },
+  {
+    "KdNr": 140,
+    "IntCode": "SPO"
+  }
+]

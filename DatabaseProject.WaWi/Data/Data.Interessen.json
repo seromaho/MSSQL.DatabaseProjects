@@ -1,0 +1,22 @@
+[
+  {
+    "IntCode": "BAU",
+    "IntText": "Werk- und Baustoffe"
+  },
+  {
+    "IntCode": "SPO",
+    "IntText": "Sportartikel"
+  },
+  {
+    "IntCode": "HUG",
+    "IntText": "Haus und Garten"
+  },
+  {
+    "IntCode": "HWE",
+    "IntText": "Heimwerken"
+  },
+  {
+    "IntCode": "KUE",
+    "IntText": "Küche und Kochen"
+  }
+]

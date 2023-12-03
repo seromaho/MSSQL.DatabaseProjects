@@ -1,0 +1,62 @@
+[
+  {
+    "ArtNr": 1001,
+    "ArtBezeichnung": "Abdeckbänderset 4 tlg.",
+    "ArtGruppe": "HH",
+    "ArtVKPreis": 10.68
+  },
+  {
+    "ArtNr": 1002,
+    "ArtBezeichnung": "Abflussieb PVC Rund Hr 4 Stk. Packung Sb",
+    "ArtGruppe": "KG",
+    "ArtVKPreis": 7.52
+  },
+  {
+    "ArtNr": 1003,
+    "ArtBezeichnung": "Abfallsack 110 lt",
+    "ArtGruppe": "HH",
+    "ArtVKPreis": 3.16
+  },
+  {
+    "ArtNr": 1004,
+    "ArtBezeichnung": "Abfallsack 60 lt",
+    "ArtGruppe": "HH",
+    "ArtVKPreis": 2.07
+  },
+  {
+    "ArtNr": 1005,
+    "ArtBezeichnung": "Abgiesser",
+    "ArtGruppe": "KG",
+    "ArtVKPreis": 7.52
+  },
+  {
+    "ArtNr": 1006,
+    "ArtBezeichnung": "Ausgiesser Gihale 6 Stk. Packung",
+    "ArtGruppe": "GE",
+    "ArtVKPreis": 5.34
+  },
+  {
+    "ArtNr": 1007,
+    "ArtBezeichnung": "Aquafit Erstausrüstungs- Set für Schwimmbad",
+    "ArtGruppe": "GA",
+    "ArtVKPreis": 108.79
+  },
+  {
+    "ArtNr": 1008,
+    "ArtBezeichnung": "Alu-Spiralstab 170 cm P60",
+    "ArtGruppe": "HH",
+    "ArtVKPreis": 6.43
+  },
+  {
+    "ArtNr": 1009,
+    "ArtBezeichnung": "Alu-Spiralstab 200 cm P60",
+    "ArtGruppe": "HH",
+    "ArtVKPreis": 7.52
+  },
+  {
+    "ArtNr": 1010,
+    "ArtBezeichnung": "Abdeckplane für Stahl- Rohrbecken 165x165 cm",
+    "ArtGruppe": "HW",
+    "ArtVKPreis": 19.51
+  }
+]

@@ -59,6 +59,7 @@
     <PackageReference Condition="'$(NetCoreBuild)' == 'true'" Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.0" PrivateAssets="All" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Data" />
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
@@ -93,6 +94,30 @@
     <Build Include="Tables\tblWareneingangPositionen.sql" />
     <Build Include="Tables\xGruppenMerge1.sql" />
     <Build Include="Tables\xGruppenMerge2.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Data\Data.Abteilungen.csv" />
+    <None Include="Data\Data.Anreden.csv" />
+    <None Include="Data\Data.Artikel.csv" />
+    <None Include="Data\Data.ArtikelGruppen.csv" />
+    <None Include="Data\Data.Bestellungen.csv" />
+    <None Include="Data\Data.BestellungenPositionen.csv" />
+    <None Include="Data\Data.GruppenMerge1.csv" />
+    <None Include="Data\Data.GruppenMerge2.csv" />
+    <None Include="Data\Data.Interessen.csv" />
+    <None Include="Data\Data.Kunden.csv" />
+    <None Include="Data\Data.KundenInteressen.csv" />
+    <None Include="Data\Data.Lager.csv" />
+    <None Include="Data\Data.Lagerstand.csv" />
+    <None Include="Data\Data.Lieferanten.csv" />
+    <None Include="Data\Data.Personal.csv" />
+    <None Include="Data\Data.Setartikel.csv" />
+    <None Include="Data\Data.Status.csv" />
+    <None Include="Data\Data.Testartikel.csv" />
+    <None Include="Data\Data.Testpersonal.csv" />
+    <None Include="Data\Data.Titel.csv" />
+    <None Include="Data\Data.Wareneingang.csv" />
+    <None Include="Data\Data.WareneingangPositionen.csv" />
   </ItemGroup>
   <Target Name="BeforeBuild">
     <Delete Files="$(BaseIntermediateOutputPath)\project.assets.json" />
