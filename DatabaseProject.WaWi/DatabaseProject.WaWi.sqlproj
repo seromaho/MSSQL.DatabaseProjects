@@ -61,6 +61,7 @@
   <ItemGroup>
     <Folder Include="Data" />
     <Folder Include="Properties" />
+    <Folder Include="Scripts" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\tblAbteilungen.sql" />
@@ -94,6 +95,9 @@
     <Build Include="Tables\tblWareneingangPositionen.sql" />
     <Build Include="Tables\xGruppenMerge1.sql" />
     <Build Include="Tables\xGruppenMerge2.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Scripts\Script.Data.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Data\Data.Abteilungen.csv" />
