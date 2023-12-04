@@ -1,11 +1,11 @@
-ArtGr,ArtGrText
-BE,Besteck
-BR,Blu-ray Discs
-BU,Bücher und Zeitschriften
-EG,Elektrische Geräte
-GA,Garten
-GE,Geschirr
-HH,Haushalt
-HW,Heimwerken
-KG,Küchengeschirr
-PC,Computer
+ArtGr|ArtGrText
+BE|Besteck
+BR|Blu-ray Discs
+BU|Bücher und Zeitschriften
+EG|Elektrische Geräte
+GA|Garten
+GE|Geschirr
+HH|Haushalt
+HW|Heimwerken
+KG|Küchengeschirr
+PC|Computer

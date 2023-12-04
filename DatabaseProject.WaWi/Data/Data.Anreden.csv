@@ -1,6 +1,6 @@
-AnrNr,AnrText,AnrBriefkopf,AnrBriefanrede
-1,Frau,Frau,Sehr geehrte Frau
-2,Herr,Herrn,Sehr geehrter Herr
-3,Familie,Familie,Sehr geehrte Familie
-4,Firma,Firma,Sehr geehrte Damen und Herren
-5,Institution,An,Sehr geehrte Damen und Herren
+AnrNr|AnrText|AnrBriefkopf|AnrBriefanrede
+1|Frau|Frau|Sehr geehrte Frau
+2|Herr|Herrn|Sehr geehrter Herr
+3|Familie|Familie|Sehr geehrte Familie
+4|Firma|Firma|Sehr geehrte Damen und Herren
+5|Institution|An|Sehr geehrte Damen und Herren

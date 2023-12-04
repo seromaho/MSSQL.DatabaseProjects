@@ -1,4 +1,4 @@
-StID,StText
-1,Erfasst
-2,Abgeschlossen
-9,Storniert
+StID|StText
+1|Erfasst
+2|Abgeschlossen
+9|Storniert
