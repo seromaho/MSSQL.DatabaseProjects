@@ -125,6 +125,13 @@
     <None Include="Data\Data.Wareneingang.csv" />
     <None Include="Data\Data.WareneingangPositionen.csv" />
   </ItemGroup>
+  <ItemGroup>
+    <SqlCmdVariable Include="RepoParDir">
+      <DefaultValue>
+      </DefaultValue>
+      <Value>$(SqlCmdVar__1)</Value>
+    </SqlCmdVariable>
+  </ItemGroup>
   <Target Name="BeforeBuild">
     <Delete Files="$(BaseIntermediateOutputPath)\project.assets.json" />
   </Target>
