@@ -16,12 +16,13 @@
     <ModelCollation>1033, CI</ModelCollation>
     <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
     <DeployToDatabase>True</DeployToDatabase>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <TargetLanguage>CS</TargetLanguage>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <SqlServerVerification>False</SqlServerVerification>
     <IncludeCompositeObjects>True</IncludeCompositeObjects>
     <TargetDatabaseSet>True</TargetDatabaseSet>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <OutputPath>bin\Release\</OutputPath>
@@ -94,8 +95,8 @@
     <Build Include="Tables\Tbl.Titel.sql" />
     <Build Include="Tables\Tbl.Wareneingang.sql" />
     <Build Include="Tables\Tbl.WareneingangPositionen.sql" />
-    <Build Include="Tables\xGruppenMerge1.sql" />
-    <Build Include="Tables\xGruppenMerge2.sql" />
+    <Build Include="Tables\x.GruppenMerge1.sql" />
+    <Build Include="Tables\x.GruppenMerge2.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.Data.Local.sql" />
