@@ -1,0 +1,226 @@
+[
+  {
+    "WaeNr": 2000002,
+    "WaePos": 1,
+    "WaePArtikel": 1043,
+    "WaePText": "Adlus Laubbesen",
+    "WaePMenge": 20,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000002,
+    "WaePos": 2,
+    "WaePArtikel": 1031,
+    "WaePText": "Adlus Stiel 150 cm",
+    "WaePMenge": 35,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000002,
+    "WaePos": 3,
+    "WaePArtikel": 1028,
+    "WaePText": "Adlus Gartenrechen 14 Zinken",
+    "WaePMenge": 40,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000001,
+    "WaePos": 1,
+    "WaePArtikel": 1201,
+    "WaePText": "Eierbecher Barkerole",
+    "WaePMenge": 360,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000001,
+    "WaePos": 2,
+    "WaePArtikel": 1192,
+    "WaePText": "Eierpfanne 18 cm",
+    "WaePMenge": 42,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000001,
+    "WaePos": 3,
+    "WaePArtikel": 1178,
+    "WaePText": "Essgabel 6 Stk. Packung",
+    "WaePMenge": 120,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000001,
+    "WaePos": 4,
+    "WaePArtikel": 1179,
+    "WaePText": "Esslöffel 6 Stk. Packung",
+    "WaePMenge": 120,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000001,
+    "WaePos": 5,
+    "WaePArtikel": 1177,
+    "WaePText": "Essmesser 6 Stk. Packung",
+    "WaePMenge": 120,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000003,
+    "WaePos": 1,
+    "WaePArtikel": 1216,
+    "WaePText": "Fissler Edelstahlpflege 2 Stk. Packung",
+    "WaePMenge": 1000,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000005,
+    "WaePos": 1,
+    "WaePArtikel": 1157,
+    "WaePText": "Camping-Klappsessel Unica Tnt",
+    "WaePMenge": 260,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000005,
+    "WaePos": 2,
+    "WaePArtikel": 1049,
+    "WaePText": "Arbeitsmantel Blau 46",
+    "WaePMenge": 100,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000004,
+    "WaePos": 1,
+    "WaePArtikel": 1300,
+    "WaePText": "Gardena 2-Wege-Verteiler",
+    "WaePMenge": 50,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000004,
+    "WaePos": 2,
+    "WaePArtikel": 1307,
+    "WaePText": "Gardena Drucksprüher 867 3 lt",
+    "WaePMenge": 40,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000004,
+    "WaePos": 3,
+    "WaePArtikel": 1276,
+    "WaePText": "Gardena Gartendusche 956",
+    "WaePMenge": 12,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000004,
+    "WaePos": 4,
+    "WaePArtikel": 1317,
+    "WaePText": "Gardena Schrubber 3640",
+    "WaePMenge": 80,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000004,
+    "WaePos": 5,
+    "WaePArtikel": 1342,
+    "WaePText": "Gardena Dachrinnen- Reiniger 3650",
+    "WaePMenge": 10,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000004,
+    "WaePos": 6,
+    "WaePArtikel": 1296,
+    "WaePText": "Gardena Baumschere 302",
+    "WaePMenge": 600,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000004,
+    "WaePos": 7,
+    "WaePArtikel": 1339,
+    "WaePText": "Gardena Obstpflücker 3110",
+    "WaePMenge": 450,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000004,
+    "WaePos": 8,
+    "WaePArtikel": 1299,
+    "WaePText": "Gardena Wandschlauch- Träger 2650",
+    "WaePMenge": 200,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000007,
+    "WaePos": 1,
+    "WaePArtikel": 1138,
+    "WaePText": "Bay Kresse Igel",
+    "WaePMenge": 180,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000007,
+    "WaePos": 2,
+    "WaePArtikel": 1129,
+    "WaePText": "Bay Römertopf",
+    "WaePMenge": 30,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000007,
+    "WaePos": 3,
+    "WaePArtikel": 1077,
+    "WaePText": "Bay Römertopf Kochbuch",
+    "WaePMenge": 60,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000007,
+    "WaePos": 4,
+    "WaePArtikel": 1101,
+    "WaePText": "Bay Kartoffelröster",
+    "WaePMenge": 250,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000006,
+    "WaePos": 1,
+    "WaePArtikel": 1054,
+    "WaePText": "Arbeitsmantel Blau 56",
+    "WaePMenge": 100,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000006,
+    "WaePos": 2,
+    "WaePArtikel": 1053,
+    "WaePText": "Arbeitsmantel Blau 54",
+    "WaePMenge": 120,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000006,
+    "WaePos": 3,
+    "WaePArtikel": 1052,
+    "WaePText": "Arbeitsmantel Blau 52",
+    "WaePMenge": 130,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000006,
+    "WaePos": 4,
+    "WaePArtikel": 1051,
+    "WaePText": "Arbeitsmantel Blau 50",
+    "WaePMenge": 130,
+    "WaePLager": 1
+  },
+  {
+    "WaeNr": 2000006,
+    "WaePos": 5,
+    "WaePArtikel": 1050,
+    "WaePText": "Arbeitsmantel Blau 48",
+    "WaePMenge": 80,
+    "WaePLager": 1
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "WaeNr": 2000001,
+    "WaeDatum": "2006-01-14T00:00:00",
+    "WaeLieferant": 1003,
+    "WaeLsNr": "2000775",
+    "WaeBearbeiter": 952,
+    "WaeStatus": 2
+  },
+  {
+    "WaeNr": 2000002,
+    "WaeDatum": "2006-01-20T00:00:00",
+    "WaeLieferant": 1002,
+    "WaeLsNr": "500003",
+    "WaeBearbeiter": 952,
+    "WaeStatus": 2
+  },
+  {
+    "WaeNr": 2000003,
+    "WaeDatum": "2006-01-25T00:00:00",
+    "WaeLieferant": 1020,
+    "WaeLsNr": "98551",
+    "WaeBearbeiter": 799,
+    "WaeStatus": 2
+  },
+  {
+    "WaeNr": 2000004,
+    "WaeDatum": "2006-01-26T00:00:00",
+    "WaeLieferant": 1008,
+    "WaeLsNr": "1225554",
+    "WaeBearbeiter": 958,
+    "WaeStatus": 2
+  },
+  {
+    "WaeNr": 2000005,
+    "WaeDatum": "2006-02-02T00:00:00",
+    "WaeLieferant": 1130,
+    "WaeLsNr": "T2000257",
+    "WaeBearbeiter": 799,
+    "WaeStatus": 2
+  },
+  {
+    "WaeNr": 2000006,
+    "WaeDatum": "2006-02-20T00:00:00",
+    "WaeLieferant": 1130,
+    "WaeLsNr": "T2001785",
+    "WaeBearbeiter": 958,
+    "WaeStatus": 2
+  },
+  {
+    "WaeNr": 2000007,
+    "WaeDatum": "2006-02-21T00:00:00",
+    "WaeLieferant": 1002,
+    "WaeLsNr": "50010",
+    "WaeBearbeiter": 958,
+    "WaeStatus": 1
+  }
+]

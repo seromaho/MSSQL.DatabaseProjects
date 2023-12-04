@@ -1,0 +1,14 @@
+[
+  {
+    "StID": 1,
+    "StText": "Erfasst"
+  },
+  {
+    "StID": 2,
+    "StText": "Abgeschlossen"
+  },
+  {
+    "StID": 9,
+    "StText": "Storniert"
+  }
+]

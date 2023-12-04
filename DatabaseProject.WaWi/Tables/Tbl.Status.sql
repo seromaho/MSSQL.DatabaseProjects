@@ -1,0 +1,9 @@
+CREATE TABLE [dbo].[TBL_Status] (
+    [StID]   TINYINT      NOT NULL,
+    [StText] VARCHAR (20) NOT NULL,
+    CONSTRAINT [PK_Stati] PRIMARY KEY NONCLUSTERED ([StID] ASC)
+);
+
+
+GO
+

@@ -1,0 +1,50 @@
+[
+  {
+    "ArtGr": "PC",
+    "ArtGrText": "Computer"
+  },
+  {
+    "ArtGr": "BU",
+    "ArtGrText": "Bücher"
+  },
+  {
+    "ArtGr": "SP",
+    "ArtGrText": "Spielwaren"
+  },
+  {
+    "ArtGr": "HW",
+    "ArtGrText": "Heimwerken"
+  },
+  {
+    "ArtGr": "HH",
+    "ArtGrText": "Haushalt"
+  },
+  {
+    "ArtGr": "GA",
+    "ArtGrText": "Garten"
+  },
+  {
+    "ArtGr": "EG",
+    "ArtGrText": "Elektrische Geräte"
+  },
+  {
+    "ArtGr": "KG",
+    "ArtGrText": "Küchengeschirr"
+  },
+  {
+    "ArtGr": "BE",
+    "ArtGrText": "Besteck"
+  },
+  {
+    "ArtGr": "GE",
+    "ArtGrText": "Geschirr"
+  },
+  {
+    "ArtGr": "SW",
+    "ArtGrText": "Software"
+  },
+  {
+    "ArtGr": "WE",
+    "ArtGrText": "Werkzeug"
+  }
+]

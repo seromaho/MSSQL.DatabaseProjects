@@ -1,0 +1,34 @@
+[
+  {
+    "TiText": "Dipl.-Ing.",
+    "TiKategorie": "A"
+  },
+  {
+    "TiText": "Mag.",
+    "TiKategorie": "A"
+  },
+  {
+    "TiText": "Dr.",
+    "TiKategorie": "A"
+  },
+  {
+    "TiText": "Ing.",
+    "TiKategorie": "T"
+  },
+  {
+    "TiText": "Prof.",
+    "TiKategorie": "T"
+  },
+  {
+    "TiText": "Dipl.-Kfm.",
+    "TiKategorie": "A"
+  },
+  {
+    "TiText": "Dipl.-Hdl.",
+    "TiKategorie": "A"
+  },
+  {
+    "TiText": "Dipl.-Vw.",
+    "TiKategorie": "A"
+  }
+]

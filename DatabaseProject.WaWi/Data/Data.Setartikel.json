@@ -1,0 +1,37 @@
+[
+  {
+    "SetArtNr": 1520,
+    "TeilArtNr": 1568,
+    "SetMenge": 2
+  },
+  {
+    "SetArtNr": 1520,
+    "TeilArtNr": 1596,
+    "SetMenge": 1
+  },
+  {
+    "SetArtNr": 1521,
+    "TeilArtNr": 1523,
+    "SetMenge": 2
+  },
+  {
+    "SetArtNr": 1520,
+    "TeilArtNr": 1875,
+    "SetMenge": 1
+  },
+  {
+    "SetArtNr": 2112,
+    "TeilArtNr": 1502,
+    "SetMenge": 1
+  },
+  {
+    "SetArtNr": 2112,
+    "TeilArtNr": 1503,
+    "SetMenge": 1
+  },
+  {
+    "SetArtNr": 2112,
+    "TeilArtNr": 1504,
+    "SetMenge": 1
+  }
+]
