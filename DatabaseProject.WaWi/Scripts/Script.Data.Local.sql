@@ -14,7 +14,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_ABTEILUNGEN]
+BULK INSERT [TBL_Abteilungen]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Abteilungen.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -31,7 +31,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_ANREDEN]
+BULK INSERT [TBL_Anreden]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Anreden.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -48,7 +48,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_ARTIKEL]
+BULK INSERT [TBL_Artikel]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Artikel.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -65,7 +65,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_ARTIKELGRUPPEN]
+BULK INSERT [TBL_ArtikelGruppen]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.ArtikelGruppen.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -82,7 +82,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_BESTELLUNGEN]
+BULK INSERT [TBL_Bestellungen]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Bestellungen.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -99,7 +99,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_BESTELLUNGENPOSITIONEN]
+BULK INSERT [TBL_BestellungenPositionen]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.BestellungenPositionen.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -116,7 +116,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [X_GRUPPENMERGE1]
+BULK INSERT [x_GruppenMerge1]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.GruppenMerge1.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -133,7 +133,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [X_GRUPPENMERGE2]
+BULK INSERT [x_GruppenMerge2]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.GruppenMerge2.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -150,7 +150,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_INTERESSEN]
+BULK INSERT [TBL_Interessen]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Interessen.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -167,7 +167,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_KUNDEN]
+BULK INSERT [TBL_Kunden]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Kunden.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -184,7 +184,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_KUNDENINTERESSEN]
+BULK INSERT [TBL_KundenInteressen]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.KundenInteressen.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -201,7 +201,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_LAGER]
+BULK INSERT [TBL_Lager]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Lager.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -218,7 +218,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_LAGERSTAND]
+BULK INSERT [TBL_Lagerstand]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Lagerstand.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -235,7 +235,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_LIEFERANTEN]
+BULK INSERT [TBL_Lieferanten]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Lieferanten.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -252,7 +252,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_PERSONAL]
+BULK INSERT [TBL_Personal]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Personal.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -269,7 +269,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_SETARTIKEL]
+BULK INSERT [TBL_Setartikel]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Setartikel.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -286,7 +286,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_STATUS]
+BULK INSERT [TBL_Status]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Status.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -303,7 +303,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_TESTARTIKEL]
+BULK INSERT [TBL_Testartikel]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Testartikel.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -320,7 +320,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_TESTPERSONAL]
+BULK INSERT [TBL_Testpersonal]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Testpersonal.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -337,7 +337,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_TITEL]
+BULK INSERT [TBL_Titel]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Titel.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -354,7 +354,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_WARENEINGANG]
+BULK INSERT [TBL_Wareneingang]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.Wareneingang.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
@@ -371,7 +371,7 @@ GO
 -- Use hash (#) as the quote character
 -- Use pipe (|) as the field terminator
 -- Use CRLF (\r\n) as the row terminator
-BULK INSERT [TBL_WARENEINGANGPOSITIONEN]
+BULK INSERT [TBL_WareneingangPositionen]
 FROM '$(RepoParDir)\MSSQL.DatabaseProjects\DatabaseProject.WaWi\Data\Data.WareneingangPositionen.csv'
 
 WITH (CODEPAGE = 65001, FORMAT = 'CSV', FIRSTROW = 2, FIELDQUOTE = '#', FIELDTERMINATOR = '|', ROWTERMINATOR = '0x0d0a');
