@@ -1,0 +1,42 @@
+[
+  {
+    "ArtGr": "BE",
+    "ArtGrText": "Besteck"
+  },
+  {
+    "ArtGr": "BR",
+    "ArtGrText": "Blu-ray Discs"
+  },
+  {
+    "ArtGr": "BU",
+    "ArtGrText": "Bücher und Zeitschriften"
+  },
+  {
+    "ArtGr": "EG",
+    "ArtGrText": "Elektrische Geräte"
+  },
+  {
+    "ArtGr": "GA",
+    "ArtGrText": "Garten"
+  },
+  {
+    "ArtGr": "GE",
+    "ArtGrText": "Geschirr"
+  },
+  {
+    "ArtGr": "HH",
+    "ArtGrText": "Haushalt"
+  },
+  {
+    "ArtGr": "HW",
+    "ArtGrText": "Heimwerken"
+  },
+  {
+    "ArtGr": "KG",
+    "ArtGrText": "Küchengeschirr"
+  },
+  {
+    "ArtGr": "PC",
+    "ArtGrText": "Computer"
+  }
+]

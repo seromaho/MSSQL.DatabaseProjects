@@ -1,0 +1,62 @@
+[
+  {
+    "Nr": 101,
+    "Nachname": "Obermann",
+    "Abtlg": "GL",
+    "Eintritt": "2001-01-02T08:00:00"
+  },
+  {
+    "Nr": 115,
+    "Nachname": "Konstantin",
+    "Abtlg": "GL",
+    "Eintritt": "1994-10-01T08:00:00"
+  },
+  {
+    "Nr": 182,
+    "Nachname": "Hille",
+    "Abtlg": "GL",
+    "Eintritt": "1988-08-01T08:00:00"
+  },
+  {
+    "Nr": 238,
+    "Nachname": "Hoier",
+    "Abtlg": "EK",
+    "Eintritt": "2000-04-01T08:00:00"
+  },
+  {
+    "Nr": 285,
+    "Nachname": "Meister",
+    "Abtlg": "EK",
+    "Eintritt": "1998-01-02T08:00:00"
+  },
+  {
+    "Nr": 332,
+    "Nachname": "Ideenreich",
+    "Abtlg": "MA",
+    "Eintritt": "1997-02-01T08:00:00"
+  },
+  {
+    "Nr": 387,
+    "Nachname": "Mörtl",
+    "Abtlg": "MA",
+    "Eintritt": "1997-10-01T08:00:00"
+  },
+  {
+    "Nr": 452,
+    "Nachname": "Kossegg",
+    "Abtlg": "EK",
+    "Eintritt": "1998-05-01T08:00:00"
+  },
+  {
+    "Nr": 455,
+    "Nachname": "Pullmeier",
+    "Abtlg": "FB",
+    "Eintritt": "1999-02-15T08:00:00"
+  },
+  {
+    "Nr": 602,
+    "Nachname": "Jurasek",
+    "Abtlg": "VK",
+    "Eintritt": "2000-11-01T08:00:00"
+  }
+]

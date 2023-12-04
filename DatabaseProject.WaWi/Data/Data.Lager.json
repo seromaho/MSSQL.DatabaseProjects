@@ -1,0 +1,26 @@
+[
+  {
+    "LagNr": 6,
+    "LagName": "Reserviertlager"
+  },
+  {
+    "LagNr": 5,
+    "LagName": "Kaputteillager"
+  },
+  {
+    "LagNr": 4,
+    "LagName": "Nebenlager 2"
+  },
+  {
+    "LagNr": 3,
+    "LagName": "Nebenlager 1"
+  },
+  {
+    "LagNr": 2,
+    "LagName": "Geschäftslager"
+  },
+  {
+    "LagNr": 1,
+    "LagName": "Hauptlager"
+  }
+]

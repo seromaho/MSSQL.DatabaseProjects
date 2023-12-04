@@ -1,0 +1,30 @@
+[
+  {
+    "AbtNr": "CO",
+    "AbtText": "Controlling"
+  },
+  {
+    "AbtNr": "EK",
+    "AbtText": "Einkauf"
+  },
+  {
+    "AbtNr": "FB",
+    "AbtText": "Finanzbuchhaltung"
+  },
+  {
+    "AbtNr": "GL",
+    "AbtText": "Geschäftsleitung"
+  },
+  {
+    "AbtNr": "LA",
+    "AbtText": "Lager"
+  },
+  {
+    "AbtNr": "MA",
+    "AbtText": "Marketing"
+  },
+  {
+    "AbtNr": "VK",
+    "AbtText": "Verkauf"
+  }
+]
